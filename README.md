@@ -7,6 +7,7 @@ Link do dashboard para acompanhar os insights fornecidos: https://lookerstudio.g
 ## Coleta de dados
 
 - **Fonte:** dataset público do Kaggle (predict conversion in digital marketing).
+- **Link:** https://www.kaggle.com/datasets/rabieelkharoua/predict-conversion-in-digital-marketing-dataset
 - **Arquivo utilizado no projeto:** `digital_marketing_campaign_dataset_ptbr.csv` (formato pt-BR, separador `;`, decimal `,`).
 - **Contexto dos dados:** métricas de campanhas digitais por canal e tipo de campanha, incluindo gasto, CTR, CVR, visitas e conversões.
 - **Observação:** dados públicos, não confidenciais, adequados para análises educacionais e de marketing.
