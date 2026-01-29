@@ -1,4 +1,4 @@
-# Projeto Semantix — EDA de Marketing Digital
+# Projeto Parceria Semantix — EDA de Marketing Digital
 
 Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre campanhas de marketing digital, com foco em eficiência de canais e tipos de campanha. O notebook principal é `analise_marketing.ipynb` e os dados de entrada estão em `digital_marketing_campaign_dataset_ptbr.csv`.
 
